@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pelipolku – Opiskelijatutorin ohjesivu
+---
+
 # Pelipolku: Opiskelijatutorin ohjesivu
 
 Tämä sivu kokoaa Gradian opiskelijatutorille yhteen paikkaan keskeiset ohjeet, opintolinkit ja toimintamallit, kun tutorointi liittyy pelialan ristiinopiskeluun (Gradia x JAMK, tarvittaessa JYU-yhteistyö).

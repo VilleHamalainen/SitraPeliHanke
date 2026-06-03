@@ -52,7 +52,6 @@ Etsimme yrityskummia, jolla on kokemusta pelialasta, koulutus- ja yritysyhteisty
 - [Ohjelmointi](https://eperusteet.opintopolku.fi/#/fi/ammatillinen/6779583/tutkinnonosat/6810819)
 - [Ohjelmistokehittäjänä toimiminen](https://eperusteet.opintopolku.fi/#/fi/ammatillinen/6779583/tutkinnonosat/6810820)
 
-
 # Väyläopintopolku pelialalle
 
 ## Kohderyhmä
@@ -291,3 +290,13 @@ Arvioidaan säännöllisesti oppimispolun toimivuutta ja tehdään tarvittavia m
 Tämän oppimispolun avulla tutor-opiskelijat voivat suunnitella ja kehittää omaa osaamistaan tavoitteellisesti sekä valmistautua menestyksekkääseen uraan pelialalla.
 
 
+Eli jyu pelitutkimus ja sitten lukio it linja mukaan pelipolun kuvaukseen. gradiaan lisäksi.
+
+Tutorin toimintamalli. Voisiko olla vielä sellainen, että yliopistolta tulee joku käymään jyulta tai jamkilta meille vierailemaan.
+
+
+Verkostoituminen alan tapahtumissa, mutta myös omissa tapahtumissa. Esim. Expan esiin tuominen ja koulutusten siällä on rekymessut, eri tapahtumia myös, joita voitaisiin tuoda esille.
+
+Yläosassa voisi olla tulevaisuus haastaa oppimisen
+
+https://opinto-opas.jyu.fi/2025/fi/moduuli/htkpel/

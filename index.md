@@ -208,3 +208,7 @@ Selkein tuki tulee siitä, että tutor auttaa polusta kiinnostuneita, tekee yhte
 ## Yhteenveto
 
 Opiskelijatutorin tehtävä on tehdä pelipolku näkyväksi ja käytännönläheiseksi: oikeat kurssit, oikea-aikainen tuki, aidot projektit ja jatkuva palautesykli. Tämä sivu toimii keskitettynä pikaoppaana arjen tutorointiin, ja sitä päivitetään tarpeen mukaan.
+
+[Kokemuksia tutor-toiminnasta Gradialla](https://blogit.gradia.fi/veerakoivulampi-tdpt2204/2024/01/02/tutor-juttuja/)
+[Ohjeet tutorille JYU](https://www.jyu.fi/fi/opiskelijalle/kandi-ja-maisteriopiskelijan-ohjeet/opintojen-suunnittelu-ja-ohjaus/tutorointi)
+[Ohjeet tutorille JAMK](https://www.jamk.fi/fi/projekti/opiskelijahyvinvoinnin-yhteiskehittaminen/tutorit-tukena)
